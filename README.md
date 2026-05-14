@@ -13,6 +13,15 @@
 
 ---
 
+## 🔧 Badge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Termux-00FF00?style=for-the-badge&logo=android&logoColor=00FF00" alt="Termux">
+  <img src="https://img.shields.io/badge/Language-Bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Bash">
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ```bash
@@ -21,7 +30,7 @@ total 5
 drwxr-xr-x  Python          # Automation & Scripting
 drwxr-xr-x  Bash             # Shell scripting & System ops
 drwxr-xr-x  JavaScript       # Node.js & npm packages
-drwxr-xr-x  Claude, ChatGPT, Copilot
+drwxr-xr-x  AI-Tools         # Claude, ChatGPT, Copilot
 drwxr-xr-x  Termux           # Mobile development environment
 ```
 
