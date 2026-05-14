@@ -24,8 +24,8 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [claude-code-termux](https://github.com/DamnSit/claude-code-termux) | Run Claude Code natively on Android via Termux | 🔥 Active |
-| [xurxuo-claude](https://www.npmjs.com/package/@xurxuo/claude-code-termux) | npm package for Claude Code Termux | 📦 Published |
+| [claude-code-termux](https://github.com/DamnSit/claude-code-termux) | Run Claude Code natively on Android via Termux | Active |
+| [xurxuo-claude](https://www.npmjs.com/package/@xurxuo/claude-code-termux) | npm package for Claude Code Termux | Published |
 
 ---
 
