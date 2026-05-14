@@ -21,7 +21,7 @@ total 5
 drwxr-xr-x  Python          # Automation & Scripting
 drwxr-xr-x  Bash             # Shell scripting & System ops
 drwxr-xr-x  JavaScript       # Node.js & npm packages
-drwxr-xr-x  AI-Tools         # Claude, ChatGPT, Copilot
+drwxr-xr-x  Claude, ChatGPT, Copilot
 drwxr-xr-x  Termux           # Mobile development environment
 ```
 
@@ -64,7 +64,7 @@ $ connected ██████████ 100%
 "Talk is cheap. Show me the code." - Linus Torvalds
 
 > user@XurXuo:~$ cat status.txt
-Currently: Coding with AI on mobile 📱
+Currently: Building cool stuff on mobile 📱
 Learning: New things everyday 🚀
 Looking for: Collaborations & cool projects 🤝
 
