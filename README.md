@@ -13,28 +13,6 @@
 
 ---
 
-## 🔧 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20with%20AI-Coding%20Assistant-00FF00?style=for-the-badge&logo=robot&logoColor=00FF00" alt="Coding with AI">
-  <img src="https://img.shields.io/badge/Platform-Termux-00FF00?style=for-the-badge&logo=android&logoColor=00FF00" alt="Termux">
-  <img src="https://img.shields.io/badge/Language-Bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Bash">
-</p>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  SYSTEM INFO                                                │
-├─────────────────────────────────────────────────────────────┤
-│  OS      ░░ Termux (Android)                              │
-│  ARCH    ░░ ARM64                                           │
-│  LANG    ░░ Bash, Shell Scripting                          │
-│  TOOLS   ░░ Claude Code, AI Assistants                     │
-│  STATUS  ░░ Online ██ [████████████████████] 100%         │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ```bash
