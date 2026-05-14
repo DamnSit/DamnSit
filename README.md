@@ -1,23 +1,9 @@
-## 🔧 Badge
+## 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Termux-00FF00?style=for-the-badge&logo=android&logoColor=00FF00" alt="Termux">
   <img src="https://img.shields.io/badge/Language-Bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Bash">
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-```bash
-$ ls -la ~/skills/
-total 5
-drwxr-xr-x  Python          # Automation & Scripting
-drwxr-xr-x  Bash             # Shell scripting & System ops
-drwxr-xr-x  JavaScript       # Node.js & npm packages
-drwxr-xr-x  AI-Tools         # Claude, ChatGPT, Copilot
-drwxr-xr-x  Termux           # Mobile development environment
-```
 
 ---
 
@@ -32,14 +18,6 @@ drwxr-xr-x  Termux           # Mobile development environment
   </a>
 </p>
 
-```
-$ ping t.me/XurXuo
-PING t.me/XurXuo (95.142.100.100) 56(84) bytes of data.
-64 bytes from 95.142.100.100: icmp_seq=1 ttl=64 time=0.042 ms
-
-$ connected ██████████ 100%
-```
-
 ---
 
 ## 📂 Featured Projects
@@ -48,22 +26,6 @@ $ connected ██████████ 100%
 |---------|-------------|--------|
 | [claude-code-termux](https://github.com/DamnSit/claude-code-termux) | Run Claude Code natively on Android via Termux | 🔥 Active |
 | [xurxuo-claude](https://www.npmjs.com/package/@xurxuo/claude-code-termux) | npm package for Claude Code Termux | 📦 Published |
-
----
-
-## 💬 Status
-
-```
-> user@XurXuo:~$ fortune
-"Talk is cheap. Show me the code." - Linus Torvalds
-
-> user@XurXuo:~$ cat status.txt
-Currently: Building cool stuff on mobile 📱
-Learning: New things everyday 🚀
-Looking for: Collaborations & cool projects 🤝
-
-> user@XurXuo:~$ _
-```
 
 ---
 
@@ -94,7 +56,7 @@ Looking for: Collaborations & cool projects 🤝
 
 ---
 
-## 🏆 Trophy
+## Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DamnSit&theme=highcontrast&title=00FF00&column=3&margin-w=15&margin-h=15" alt="Trophy">
@@ -105,5 +67,5 @@ Looking for: Collaborations & cool projects 🤝
 ---
 
 <p align="center">
-  <sub>Made with ⚡ and AI</sub>
+  <sub>Made with 🍻 and AI</sub>
 </p>
