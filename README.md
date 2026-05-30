@@ -24,16 +24,6 @@
 | [claude-code-termux](https://github.com/DamnSit/claude-code-termux) | Run Claude Code natively on Android via Termux | Active |
 | [xurxuo-claude](https://www.npmjs.com/package/@xurxuo/claude-code-termux) | npm package for Claude Code Termux | Published |
 
-<p align="center">
-  <a href="https://starmapper.bruniaux.com/DamnSit/claude-code-termux">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://starmapper.bruniaux.com/api/map-image/DamnSit/claude-code-termux?theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://starmapper.bruniaux.com/api/map-image/DamnSit/claude-code-termux?theme=light" />
-      <img alt="StarMapper" src="https://starmapper.bruniaux.com/api/map-image/DamnSit/claude-code-termux" />
-    </picture>
-  </a>
-</p>
-
 ---
 
 <p align="center">
