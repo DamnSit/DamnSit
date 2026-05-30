@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Termux-00FF00?style=for-the-badge&logo=android&logoColor=00FF00" alt="Termux">
+  <img src="https://img.shields.io/badge/Platform-Android-00FF00?style=for-the-badge&logo=android&logoColor=00FF00" alt="Android">
   <img src="https://img.shields.io/badge/Language-Bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Bash">
 </p>
 
