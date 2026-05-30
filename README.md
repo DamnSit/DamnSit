@@ -28,6 +28,9 @@
   <a href="https://starmapper.bruniaux.com/DamnSit/claude-code-termux">
     <img src="https://starmapper.bruniaux.com/api/badge/DamnSit/claude-code-termux" alt="StarMapper">
   </a>
+  <a href="https://www.npmjs.com/package/@xurxuo/claude-code-termux">
+    <img src="https://img.shields.io/npm/dm/@xurxuo/claude-code-termux?style=flat&color=00FF00&label=npm%20downloads" alt="npm downloads">
+  </a>
 </p>
 
 ---
