@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=700&pause=1500&color=00FF00&background=0d1117&center=true&vCenter=true&width=700&height=100&multiline=true&repeat=true&random=false&lines=%F0%9F%91%8B+Hey%2C+I%27m+DamnSit!;%F0%9F%9A%80+Building+cool+stuff+with+Claude+Code;Termux+%2B+Android+%2B+AI+%3D+%F0%9F%94%A5;Open+Source+%7C+Automation+%7C+AI;Explore+my+repos!+%E2%86%92" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=700&pause=1500&color=00FF00&background=0d1117&center=true&vCenter=true&width=700&height=100&multiline=true&repeat=true&random=false&lines=Hey%2C+I%27m+DamnSit!;Building+cool+stuff+with+Claude+Code;Open+Source+%7C+Automation+%7C+AI;Explore+my+repos!+%E2%86%92" alt="Typing SVG">
 </p>
 
 ---
