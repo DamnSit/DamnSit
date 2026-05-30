@@ -32,10 +32,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DamnSit/DamnSit/master/profile-3d-contrib/profile-flat-grid.svg" alt="3D Contribution Graph">
-</p>
-
 <details>
 <summary><b>⚡ More Stats</b></summary>
 
@@ -49,14 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamnSit&theme=highcontrast&background=0d1117&border=00FF00&stroke=00FF00&fire=00FF00&ring=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&currStreakLabel=00FF00&strokeLine=00FF00&layout=compact" alt="GitHub Streak">
-</p>
-
----
-
-## Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamnSit&theme=highcontrast&title=00FF00&column=3&margin-w=15&margin-h=15" alt="Trophy">
 </p>
 
 </details>
