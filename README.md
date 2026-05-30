@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DamnSit/DamnSit/main/profile-3d-contrib/profile-flat-grid.svg" alt="3D Contribution Graph">
+  <img src="https://raw.githubusercontent.com/DamnSit/DamnSit/master/profile-3d-contrib/profile-flat-grid.svg" alt="3D Contribution Graph">
 </p>
 
 <details>
