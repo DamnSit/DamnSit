@@ -1,5 +1,3 @@
-## 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Termux-00FF00?style=for-the-badge&logo=android&logoColor=00FF00" alt="Termux">
   <img src="https://img.shields.io/badge/Language-Bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Bash">
@@ -30,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile,+explorer!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&pause=1500&color=00FF00&background=0d1117&center=true&vCenter=true&width=600&height=80&multiline=true&repeat=true&random=false&lines=%F0%9F%91%8B+Hey%2C+I%27m+DamnSit%21;%F0%9F%9A%80+Building+cool+stuff+with+Claude+Code;Termux+%2B+Android+%2B+AI+%3D+%F0%9F%94%A5;Open+Source+Enthusiast+%7C+Automation+Lover;Feel+free+to+explore+my+repos%21" alt="Typing SVG">
 </p>
 
 ---
